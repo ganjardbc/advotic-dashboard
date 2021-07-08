@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/advotic-dashboard/static/css/main.c98c4e7e.chunk.css",
-    "main.js": "/advotic-dashboard/static/js/main.be80207c.chunk.js",
-    "main.js.map": "/advotic-dashboard/static/js/main.be80207c.chunk.js.map",
+    "main.js": "/advotic-dashboard/static/js/main.41f16749.chunk.js",
+    "main.js.map": "/advotic-dashboard/static/js/main.41f16749.chunk.js.map",
     "runtime-main.js": "/advotic-dashboard/static/js/runtime-main.3264a8b3.js",
     "runtime-main.js.map": "/advotic-dashboard/static/js/runtime-main.3264a8b3.js.map",
     "static/css/2.2f5641a8.chunk.css": "/advotic-dashboard/static/css/2.2f5641a8.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.2f5641a8.chunk.css",
     "static/js/2.00dfe074.chunk.js",
     "static/css/main.c98c4e7e.chunk.css",
-    "static/js/main.be80207c.chunk.js"
+    "static/js/main.41f16749.chunk.js"
   ]
 }
