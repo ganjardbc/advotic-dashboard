@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/advotic-dashboard/static/css/main.c98c4e7e.chunk.css",
+    "main.js": "/advotic-dashboard/static/js/main.be80207c.chunk.js",
+    "main.js.map": "/advotic-dashboard/static/js/main.be80207c.chunk.js.map",
+    "runtime-main.js": "/advotic-dashboard/static/js/runtime-main.3264a8b3.js",
+    "runtime-main.js.map": "/advotic-dashboard/static/js/runtime-main.3264a8b3.js.map",
+    "static/css/2.2f5641a8.chunk.css": "/advotic-dashboard/static/css/2.2f5641a8.chunk.css",
+    "static/js/2.00dfe074.chunk.js": "/advotic-dashboard/static/js/2.00dfe074.chunk.js",
+    "static/js/2.00dfe074.chunk.js.map": "/advotic-dashboard/static/js/2.00dfe074.chunk.js.map",
+    "static/js/3.21b1e16a.chunk.js": "/advotic-dashboard/static/js/3.21b1e16a.chunk.js",
+    "static/js/3.21b1e16a.chunk.js.map": "/advotic-dashboard/static/js/3.21b1e16a.chunk.js.map",
+    "index.html": "/advotic-dashboard/index.html",
+    "static/css/2.2f5641a8.chunk.css.map": "/advotic-dashboard/static/css/2.2f5641a8.chunk.css.map",
+    "static/css/main.c98c4e7e.chunk.css.map": "/advotic-dashboard/static/css/main.c98c4e7e.chunk.css.map",
+    "static/js/2.00dfe074.chunk.js.LICENSE.txt": "/advotic-dashboard/static/js/2.00dfe074.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/advotic-dashboard/static/media/Ubuntu-Regular.5784059d.ttf",
+    "static/media/advotic-logo.3d1e4df8.png": "/advotic-dashboard/static/media/advotic-logo.3d1e4df8.png",
+    "static/media/all.min.css": "/advotic-dashboard/static/media/fa-solid-900.ec056eb5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3264a8b3.js",
+    "static/css/2.2f5641a8.chunk.css",
+    "static/js/2.00dfe074.chunk.js",
+    "static/css/main.c98c4e7e.chunk.css",
+    "static/js/main.be80207c.chunk.js"
+  ]
+}
