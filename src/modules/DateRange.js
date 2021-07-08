@@ -129,7 +129,7 @@ class App extends Component {
                         type="button" 
                         className="btn btn-grey border-left btn-no-radius" 
                         onClick={this.opPlaceDateRange}>
-                        <i className="fa fa-lg fa-calendar-alt" />
+                        <i className={placeDateRange ? "fa fa-lg fa-chevron-up" : "fa fa-lg fa-chevron-down"} style={{marginTop: 5}} />
                     </button>
                 </div>
 
